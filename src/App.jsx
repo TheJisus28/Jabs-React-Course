@@ -1,5 +1,7 @@
-import Actividad1 from "./clases/clase 1 : sintaxis jsx/Actividad1";
+import Actividad1Clase3 from "./clases/clase 3: useState/Actividad1Clase3";
 
-export default function App() {
-  return <Actividad1 />;
+function App() {
+  return <Actividad1Clase3></Actividad1Clase3>;
 }
+
+export default App;
