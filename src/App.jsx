@@ -1,7 +1,7 @@
-import Actividad1Clase3 from "./clases/clase 3: useState/Actividad1Clase3";
+import Home from "./clases/Clase 6: useContext/Activity/Pages/Home";
 
 function App() {
-  return <Actividad1Clase3></Actividad1Clase3>;
+  return <Home></Home>;
 }
 
 export default App;

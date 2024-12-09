@@ -2,7 +2,13 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        teal: {
+          base: "#008080", // Definir teal base como un color personalizado
+        },
+      },
+    },
   },
   plugins: [],
 };

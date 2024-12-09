@@ -1,0 +1,187 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone X",
+      "description": "A sleek smartphone with the latest features.",
+      "price": 799.99,
+      "stock": 100,
+      "category": "Electronics",
+      "tags": ["smartphone", "mobile", "technology"],
+      "images": ["https://example.com/images/smartphone.jpg"],
+      "attributes": {
+        "brand": "TechCo",
+        "model": "X2024",
+        "color": "Black",
+        "storage": "128GB"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Wireless Earbuds",
+      "description": "Compact and powerful sound with noise cancellation.",
+      "price": 149.99,
+      "stock": 200,
+      "category": "Accessories",
+      "tags": ["audio", "wireless", "music"],
+      "images": ["https://example.com/images/earbuds.jpg"],
+      "attributes": {
+        "brand": "SoundPlus",
+        "color": "White",
+        "batteryLife": "24 hours"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Smart Watch",
+      "description": "A fitness-focused smartwatch with GPS.",
+      "price": 249.99,
+      "stock": 80,
+      "category": "Wearables",
+      "tags": ["watch", "fitness", "technology"],
+      "images": ["https://example.com/images/smartwatch.jpg"],
+      "attributes": {
+        "brand": "FitTech",
+        "color": "Silver",
+        "waterproof": true
+      }
+    },
+    {
+      "id": 4,
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat for all fitness levels.",
+      "price": 29.99,
+      "stock": 150,
+      "category": "Sports",
+      "tags": ["yoga", "fitness", "mat"],
+      "images": ["https://example.com/images/yogamat.jpg"],
+      "attributes": {
+        "material": "Eco-friendly foam",
+        "dimensions": "72x24 inches",
+        "thickness": "6mm"
+      }
+    },
+    {
+      "id": 5,
+      "name": "4K Television",
+      "description": "Ultra HD Smart TV with stunning picture quality.",
+      "price": 1299.99,
+      "stock": 30,
+      "category": "Electronics",
+      "tags": ["tv", "4k", "entertainment"],
+      "images": ["https://example.com/images/tv.jpg"],
+      "attributes": {
+        "brand": "VisionMax",
+        "size": "55 inches",
+        "resolution": "4K UHD",
+        "smartFeatures": true
+      }
+    },
+    {
+      "id": 6,
+      "name": "Gaming Chair",
+      "description": "Ergonomic gaming chair with adjustable lumbar support.",
+      "price": 199.99,
+      "stock": 60,
+      "category": "Furniture",
+      "tags": ["gaming", "chair", "comfort"],
+      "images": ["https://example.com/images/gamingchair.jpg"],
+      "attributes": {
+        "material": "PU Leather",
+        "weightCapacity": "300 lbs",
+        "color": "Red"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Blender",
+      "description": "High-speed blender perfect for smoothies and shakes.",
+      "price": 89.99,
+      "stock": 120,
+      "category": "Home Appliances",
+      "tags": ["kitchen", "blender", "smoothie"],
+      "images": ["https://example.com/images/blender.jpg"],
+      "attributes": {
+        "brand": "BlendMaster",
+        "capacity": "2 liters",
+        "power": "1200W"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Electric Kettle",
+      "description": "Fast-boiling electric kettle with auto shut-off.",
+      "price": 39.99,
+      "stock": 75,
+      "category": "Kitchen Appliances",
+      "tags": ["kitchen", "kettle", "electric"],
+      "images": ["https://example.com/images/kettle.jpg"],
+      "attributes": {
+        "brand": "QuickBoil",
+        "capacity": "1.7 liters",
+        "color": "White"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Mountain Bike",
+      "description": "Durable mountain bike for rough terrain.",
+      "price": 499.99,
+      "stock": 20,
+      "category": "Sports",
+      "tags": ["bike", "outdoors", "sports"],
+      "images": ["https://example.com/images/mountainbike.jpg"],
+      "attributes": {
+        "brand": "TrailRider",
+        "frameMaterial": "Aluminum",
+        "wheelSize": "29 inches",
+        "gears": 21
+      }
+    },
+    {
+      "id": 10,
+      "name": "Portable Speaker",
+      "description": "Compact Bluetooth speaker with excellent sound quality.",
+      "price": 59.99,
+      "stock": 100,
+      "category": "Audio",
+      "tags": ["speaker", "bluetooth", "music"],
+      "images": ["https://example.com/images/speaker.jpg"],
+      "attributes": {
+        "brand": "MusicFlow",
+        "batteryLife": "12 hours",
+        "color": "Black"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Desk Lamp",
+      "description": "LED desk lamp with adjustable brightness.",
+      "price": 24.99,
+      "stock": 200,
+      "category": "Lighting",
+      "tags": ["lamp", "led", "lighting"],
+      "images": ["https://example.com/images/desklamp.jpg"],
+      "attributes": {
+        "material": "Metal",
+        "power": "10W",
+        "color": "White"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Wireless Keyboard",
+      "description": "Compact wireless keyboard with long battery life.",
+      "price": 49.99,
+      "stock": 90,
+      "category": "Accessories",
+      "tags": ["keyboard", "wireless", "computer"],
+      "images": ["https://example.com/images/keyboard.jpg"],
+      "attributes": {
+        "brand": "KeyBoardPro",
+        "batteryLife": "18 months",
+        "color": "Gray"
+      }
+    }
+  ]
+}
