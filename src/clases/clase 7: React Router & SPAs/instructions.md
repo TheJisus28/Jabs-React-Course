@@ -1,9 +1,9 @@
 # Instructions for the seven (7) class
 
-we need to isntall the dependency "react-router-dom", to install it just type
+We need to install the dependency "react-router-dom". To install it, just type:
 
-"""
+```bash
 npm install react-router-dom
-"""
+```
 
 and press enter.
