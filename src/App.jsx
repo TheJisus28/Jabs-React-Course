@@ -1,7 +1,7 @@
-import Home from "./clases/Clase 6: useContext/Activity/Pages/Home";
+import Activity7 from "./clases/clase 7: React Router & SPAs/Activity/Activity7";
 
 function App() {
-  return <Home></Home>;
+  return <Activity7></Activity7>;
 }
 
 export default App;
